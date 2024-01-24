@@ -1,0 +1,14 @@
+C:\Users\tobia\Desktop\JaProj\JaProj\bin\Release\JaProj.exe.config
+C:\Users\tobia\Desktop\JaProj\JaProj\bin\Release\JaProj.exe
+C:\Users\tobia\Desktop\JaProj\JaProj\bin\Release\JaProj.pdb
+C:\Users\tobia\Desktop\JaProj\JaProj\bin\Release\KMPLibrary.dll
+C:\Users\tobia\Desktop\JaProj\JaProj\bin\Release\KMPLibrary.pdb
+C:\Users\tobia\Desktop\JaProj\JaProj\obj\Release\JaProj.csproj.AssemblyReference.cache
+C:\Users\tobia\Desktop\JaProj\JaProj\obj\Release\JaProj.csproj.SuggestedBindingRedirects.cache
+C:\Users\tobia\Desktop\JaProj\JaProj\obj\Release\JaProj.App.resources
+C:\Users\tobia\Desktop\JaProj\JaProj\obj\Release\JaProj.Properties.Resources.resources
+C:\Users\tobia\Desktop\JaProj\JaProj\obj\Release\JaProj.csproj.GenerateResource.cache
+C:\Users\tobia\Desktop\JaProj\JaProj\obj\Release\JaProj.csproj.CoreCompileInputs.cache
+C:\Users\tobia\Desktop\JaProj\JaProj\obj\Release\JaProj.csproj.CopyComplete
+C:\Users\tobia\Desktop\JaProj\JaProj\obj\Release\JaProj.exe
+C:\Users\tobia\Desktop\JaProj\JaProj\obj\Release\JaProj.pdb

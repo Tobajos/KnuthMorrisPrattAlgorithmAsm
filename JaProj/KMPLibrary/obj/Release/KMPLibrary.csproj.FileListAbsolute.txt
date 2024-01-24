@@ -1,0 +1,18 @@
+C:\Users\tobia\Desktop\JaProj\KMPLibrary\bin\Release\KMPLibrary.dll
+C:\Users\tobia\Desktop\JaProj\KMPLibrary\bin\Release\KMPLibrary.pdb
+C:\Users\tobia\Desktop\JaProj\KMPLibrary\obj\Release\KMPLibrary.csproj.AssemblyReference.cache
+C:\Users\tobia\Desktop\JaProj\KMPLibrary\obj\Release\KMPLibrary.csproj.CoreCompileInputs.cache
+C:\Users\tobia\Desktop\JaProj\KMPLibrary\obj\Release\KMPLibrary.dll
+C:\Users\tobia\Desktop\JaProj\KMPLibrary\obj\Release\KMPLibrary.pdb
+C:\Users\tobia\Desktop\Nowy folder (9)\JaProj\KMPLibrary\bin\Release\KMPLibrary.dll
+C:\Users\tobia\Desktop\Nowy folder (9)\JaProj\KMPLibrary\bin\Release\KMPLibrary.pdb
+C:\Users\tobia\Desktop\Nowy folder (9)\JaProj\KMPLibrary\obj\Release\KMPLibrary.csproj.AssemblyReference.cache
+C:\Users\tobia\Desktop\Nowy folder (9)\JaProj\KMPLibrary\obj\Release\KMPLibrary.csproj.CoreCompileInputs.cache
+C:\Users\tobia\Desktop\Nowy folder (9)\JaProj\KMPLibrary\obj\Release\KMPLibrary.dll
+C:\Users\tobia\Desktop\Nowy folder (9)\JaProj\KMPLibrary\obj\Release\KMPLibrary.pdb
+C:\Users\Tobiasz\Desktop\Nowy folder\JaProj\KMPLibrary\bin\Release\KMPLibrary.dll
+C:\Users\Tobiasz\Desktop\Nowy folder\JaProj\KMPLibrary\bin\Release\KMPLibrary.pdb
+C:\Users\Tobiasz\Desktop\Nowy folder\JaProj\KMPLibrary\obj\Release\KMPLibrary.csproj.AssemblyReference.cache
+C:\Users\Tobiasz\Desktop\Nowy folder\JaProj\KMPLibrary\obj\Release\KMPLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Tobiasz\Desktop\Nowy folder\JaProj\KMPLibrary\obj\Release\KMPLibrary.dll
+C:\Users\Tobiasz\Desktop\Nowy folder\JaProj\KMPLibrary\obj\Release\KMPLibrary.pdb

@@ -1,0 +1,55 @@
+C:\Users\tobia\Desktop\JaProj\JaProj\bin\x64\Release\JaProj.exe.config
+C:\Users\tobia\Desktop\JaProj\JaProj\bin\x64\Release\JaProj.exe
+C:\Users\tobia\Desktop\JaProj\JaProj\bin\x64\Release\JaProj.pdb
+C:\Users\tobia\Desktop\JaProj\JaProj\bin\x64\Release\KMPLibrary.dll
+C:\Users\tobia\Desktop\JaProj\JaProj\bin\x64\Release\KMPLibrary.pdb
+C:\Users\tobia\Desktop\JaProj\JaProj\obj\x64\Release\JaProj.csproj.AssemblyReference.cache
+C:\Users\tobia\Desktop\JaProj\JaProj\obj\x64\Release\JaProj.csproj.SuggestedBindingRedirects.cache
+C:\Users\tobia\Desktop\JaProj\JaProj\obj\x64\Release\JaProj.App.resources
+C:\Users\tobia\Desktop\JaProj\JaProj\obj\x64\Release\JaProj.Properties.Resources.resources
+C:\Users\tobia\Desktop\JaProj\JaProj\obj\x64\Release\JaProj.csproj.GenerateResource.cache
+C:\Users\tobia\Desktop\JaProj\JaProj\obj\x64\Release\JaProj.csproj.CoreCompileInputs.cache
+C:\Users\tobia\Desktop\JaProj\JaProj\obj\x64\Release\JaProj.csproj.CopyComplete
+C:\Users\tobia\Desktop\JaProj\JaProj\obj\x64\Release\JaProj.exe
+C:\Users\tobia\Desktop\JaProj\JaProj\obj\x64\Release\JaProj.pdb
+C:\Users\tobia\Desktop\Nowy folder (9)\JaProj\JaProj\bin\x64\Release\JaProj.exe.config
+C:\Users\tobia\Desktop\Nowy folder (9)\JaProj\JaProj\bin\x64\Release\JaProj.exe
+C:\Users\tobia\Desktop\Nowy folder (9)\JaProj\JaProj\bin\x64\Release\JaProj.pdb
+C:\Users\tobia\Desktop\Nowy folder (9)\JaProj\JaProj\bin\x64\Release\KMPLibrary.dll
+C:\Users\tobia\Desktop\Nowy folder (9)\JaProj\JaProj\bin\x64\Release\KMPLibrary.pdb
+C:\Users\tobia\Desktop\Nowy folder (9)\JaProj\JaProj\obj\x64\Release\JaProj.csproj.AssemblyReference.cache
+C:\Users\tobia\Desktop\Nowy folder (9)\JaProj\JaProj\obj\x64\Release\JaProj.csproj.SuggestedBindingRedirects.cache
+C:\Users\tobia\Desktop\Nowy folder (9)\JaProj\JaProj\obj\x64\Release\JaProj.App.resources
+C:\Users\tobia\Desktop\Nowy folder (9)\JaProj\JaProj\obj\x64\Release\JaProj.Properties.Resources.resources
+C:\Users\tobia\Desktop\Nowy folder (9)\JaProj\JaProj\obj\x64\Release\JaProj.csproj.GenerateResource.cache
+C:\Users\tobia\Desktop\Nowy folder (9)\JaProj\JaProj\obj\x64\Release\JaProj.csproj.CoreCompileInputs.cache
+C:\Users\tobia\Desktop\Nowy folder (9)\JaProj\JaProj\obj\x64\Release\JaProj.csproj.CopyComplete
+C:\Users\tobia\Desktop\Nowy folder (9)\JaProj\JaProj\obj\x64\Release\JaProj.exe
+C:\Users\tobia\Desktop\Nowy folder (9)\JaProj\JaProj\obj\x64\Release\JaProj.pdb
+C:\Users\Tobiasz\Desktop\Nowy folder\JaProj\JaProj\bin\x64\Release\JaProj.exe.config
+C:\Users\Tobiasz\Desktop\Nowy folder\JaProj\JaProj\bin\x64\Release\JaProj.exe
+C:\Users\Tobiasz\Desktop\Nowy folder\JaProj\JaProj\bin\x64\Release\JaProj.pdb
+C:\Users\Tobiasz\Desktop\Nowy folder\JaProj\JaProj\bin\x64\Release\KMPLibrary.dll
+C:\Users\Tobiasz\Desktop\Nowy folder\JaProj\JaProj\bin\x64\Release\KMPLibrary.pdb
+C:\Users\Tobiasz\Desktop\Nowy folder\JaProj\JaProj\obj\x64\Release\JaProj.csproj.AssemblyReference.cache
+C:\Users\Tobiasz\Desktop\Nowy folder\JaProj\JaProj\obj\x64\Release\JaProj.App.resources
+C:\Users\Tobiasz\Desktop\Nowy folder\JaProj\JaProj\obj\x64\Release\JaProj.Properties.Resources.resources
+C:\Users\Tobiasz\Desktop\Nowy folder\JaProj\JaProj\obj\x64\Release\JaProj.csproj.GenerateResource.cache
+C:\Users\Tobiasz\Desktop\Nowy folder\JaProj\JaProj\obj\x64\Release\JaProj.csproj.CoreCompileInputs.cache
+C:\Users\Tobiasz\Desktop\Nowy folder\JaProj\JaProj\obj\x64\Release\JaProj.csproj.CopyComplete
+C:\Users\Tobiasz\Desktop\Nowy folder\JaProj\JaProj\obj\x64\Release\JaProj.exe
+C:\Users\Tobiasz\Desktop\Nowy folder\JaProj\JaProj\obj\x64\Release\JaProj.pdb
+C:\Users\tobia\Desktop\Nowy folder (10)\JaProj\JaProj\bin\x64\Release\JaProj.exe.config
+C:\Users\tobia\Desktop\Nowy folder (10)\JaProj\JaProj\bin\x64\Release\JaProj.exe
+C:\Users\tobia\Desktop\Nowy folder (10)\JaProj\JaProj\bin\x64\Release\JaProj.pdb
+C:\Users\tobia\Desktop\Nowy folder (10)\JaProj\JaProj\bin\x64\Release\KMPLibrary.dll
+C:\Users\tobia\Desktop\Nowy folder (10)\JaProj\JaProj\bin\x64\Release\KMPLibrary.pdb
+C:\Users\tobia\Desktop\Nowy folder (10)\JaProj\JaProj\obj\x64\Release\JaProj.csproj.AssemblyReference.cache
+C:\Users\tobia\Desktop\Nowy folder (10)\JaProj\JaProj\obj\x64\Release\JaProj.csproj.SuggestedBindingRedirects.cache
+C:\Users\tobia\Desktop\Nowy folder (10)\JaProj\JaProj\obj\x64\Release\JaProj.App.resources
+C:\Users\tobia\Desktop\Nowy folder (10)\JaProj\JaProj\obj\x64\Release\JaProj.Properties.Resources.resources
+C:\Users\tobia\Desktop\Nowy folder (10)\JaProj\JaProj\obj\x64\Release\JaProj.csproj.GenerateResource.cache
+C:\Users\tobia\Desktop\Nowy folder (10)\JaProj\JaProj\obj\x64\Release\JaProj.csproj.CoreCompileInputs.cache
+C:\Users\tobia\Desktop\Nowy folder (10)\JaProj\JaProj\obj\x64\Release\JaProj.csproj.CopyComplete
+C:\Users\tobia\Desktop\Nowy folder (10)\JaProj\JaProj\obj\x64\Release\JaProj.exe
+C:\Users\tobia\Desktop\Nowy folder (10)\JaProj\JaProj\obj\x64\Release\JaProj.pdb

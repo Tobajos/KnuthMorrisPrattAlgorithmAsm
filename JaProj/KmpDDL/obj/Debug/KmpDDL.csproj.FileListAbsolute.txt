@@ -1,0 +1,6 @@
+C:\Users\tobia\Documents\SEM5\JaProj\KmpDDL\bin\Debug\KmpDDL.dll
+C:\Users\tobia\Documents\SEM5\JaProj\KmpDDL\bin\Debug\KmpDDL.pdb
+C:\Users\tobia\Documents\SEM5\JaProj\KmpDDL\obj\Debug\KmpDDL.csproj.AssemblyReference.cache
+C:\Users\tobia\Documents\SEM5\JaProj\KmpDDL\obj\Debug\KmpDDL.csproj.CoreCompileInputs.cache
+C:\Users\tobia\Documents\SEM5\JaProj\KmpDDL\obj\Debug\KmpDDL.dll
+C:\Users\tobia\Documents\SEM5\JaProj\KmpDDL\obj\Debug\KmpDDL.pdb
