@@ -5,7 +5,6 @@
 
 .code
 MyProc1 proc
-    ; Get pointers to the text and pattern from parameters
     mov rcx, rcx    ; rcx contains a pointer to the text in C#
     mov rbx, rbx    ; rbx contains a pointer to the pattern in C#    
     mov rax, rdi    ; rax contains a pointer to the results array
@@ -22,15 +21,30 @@ MyProc1 proc
     
 ; Main Loop (while i < rdx)
 while_loop:         
-    cmp r11, rdx       ; Compare i with the length of the text
-    jge end_program    ; If i >= rdx, exit the loop
+    cmp r11, rdx       
+    jge end_program    
 
     ; Compare pat[j] and str[i]
     movzx r8, byte ptr [rcx + r11]  ; Read str[i]
     movzx r10, byte ptr [rbx + r12] ; Read pat[j]
 
+     ; Przyjête za³o¿enie: d³ugoœæ patternu w bajtach jest przechowywana w rejestrze r9
+
+vpxor ymm1, ymm1, ymm1
+      vmovups ymm1, [rbx]
+
+      vpxor ymm2, ymm2, ymm2
+      vmovups ymm2, [rcx]
+
+      vpxor ymm3, ymm3, ymm3  ; Wyczyszczenie wektora, w którym bêdziemy trzymaæ wynik porównania
+
+      vpcmpeqb ymm3, ymm1, ymm2  ; Porównanie wektorów ymm1 i ymm2
+
+
+
+
     ; Compare with ASCII code of the letters
-    cmp r8, r10
+``    cmp r8, r10
     jne not_match      ; If str[i] != pat[j], jump to not_match label
 
     ; Condition satisfied, increment j and i
